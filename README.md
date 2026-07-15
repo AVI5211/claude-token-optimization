@@ -1,5 +1,5 @@
 <picture>
-  <img alt="Nexus" src="nexus-thumbnail.png">
+  <img alt="Nexus" src="">
 </picture>
 
 # Nexus — AI Context Optimization Engine
